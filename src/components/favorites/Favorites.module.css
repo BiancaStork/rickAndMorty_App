@@ -1,0 +1,10 @@
+.div {    
+    display: inline-block;
+    justify-content:space-between;
+    overflow:hidden;
+    padding:5px;
+    background-image: url('/src/assets/fondo\ liso.jpg');
+    /*sombra*/
+    box-shadow: 7px 10px 82px 0px rgba(230,227,230,1);    
+    border-radius: 5px;
+}

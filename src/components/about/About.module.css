@@ -1,0 +1,23 @@
+.container{
+  width: 1170px;
+  height: 368px;
+  margin-left: 5%;
+  margin-top: 10%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #cec5c5; 
+  box-shadow: 0 3px 13px 1px blueviolet;
+}
+
+.containerTexto{
+    text-align: center;
+    padding: 40px;
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+    line-height: 12px; /*establece la distancia entre líneas de texto*/
+}
+
+.nombreTexto{
+    font-size: 48px;
+}
